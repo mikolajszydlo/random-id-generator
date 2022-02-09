@@ -1,0 +1,8 @@
+{
+  "name": "@mikolaj-szydlo/randomid-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Mikolaj Szydlo",
+  "keywords": ["id", "generator", "random"]
+}
